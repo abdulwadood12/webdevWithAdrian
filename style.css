@@ -1,0 +1,26 @@
+*{
+	background-color: navajowhite;
+	color: darkcyan;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+img{
+	width: 250px;
+	height: 200px;
+	padding: 10px;
+	background-color: lightblue;
+	border: 5px solid blue;
+	border-radius: 25%;
+	margin: 50px;
+}
+
+#bigdiv{
+	display: flex;
+}
+
+li{
+	list-style-type: cambodian;
+	font-family: monospace;
+}
